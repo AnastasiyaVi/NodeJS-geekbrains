@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-geekbrains",
+  "version": "1.0.0",
+  "description": "student Anastasiya Vigulyarnaya, project node.js gb",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnastasiyaVi/NodeJS-geekbrains.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnastasiyaVi/NodeJS-geekbrains/issues"
+  },
+  "homepage": "https://github.com/AnastasiyaVi/NodeJS-geekbrains#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
