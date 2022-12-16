@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/AnastasiyaVi/NodeJS-geekbrains#readme",
   "dependencies": {
-    "colors": "^1.4.0"
+    "colors": "^1.4.0",
+    "inquirer": "^8.0.0",
+    "yargs": "^17.6.2"
   }
 }
